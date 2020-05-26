@@ -1727,3 +1727,102 @@ new_cache:1
 10:30:05 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
 10:30:05 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
 10:30:05 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:07 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:07 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:07 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:07 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:07 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:09 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:09 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:09 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:09 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:09 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:11 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:11 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:11 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:11 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:11 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:13 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:13 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:13 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:13 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:13 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:15 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:15 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:15 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:15 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:15 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:17 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:17 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:17 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:17 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:17 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:19 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:19 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:19 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:19 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:19 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:21 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:21 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:21 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:21 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:21 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:23 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:23 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:23 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:23 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:23 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:25 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:25 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:25 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:25 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:25 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:27 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:27 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:27 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:27 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:27 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:27 5648 /testwordpress/wp-cron.php?doing_wp_cron=1590489027.6332330703735351562500 wp_cache_get_cookies_values: return: 
+10:30:27 5648 /testwordpress/wp-cron.php?doing_wp_cron=1590489027.6332330703735351562500 In WP Cache Phase 2
+10:30:27 5648 /testwordpress/wp-cron.php?doing_wp_cron=1590489027.6332330703735351562500 Setting up WordPress actions
+10:30:27 5648 /testwordpress/wp-cron.php?doing_wp_cron=1590489027.6332330703735351562500 Not caching wp-admin requests.
+10:30:29 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:29 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:29 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:29 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:29 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:31 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:31 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:31 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:31 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:31 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:33 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:33 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:33 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:33 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:33 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:35 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:35 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:35 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:35 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:35 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:37 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:37 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:37 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:37 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:37 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:39 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:39 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:39 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:39 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:39 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:41 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:41 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:41 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:41 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:41 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
+10:30:43 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: Login/postpass cookie detected
+10:30:43 5648 /testwordpress/wp-admin/admin-ajax.php wp_cache_get_cookies_values: return: a384bbaa4f39e7f3f137e27ea207113e
+10:30:43 5648 /testwordpress/wp-admin/admin-ajax.php In WP Cache Phase 2
+10:30:43 5648 /testwordpress/wp-admin/admin-ajax.php Setting up WordPress actions
+10:30:43 5648 /testwordpress/wp-admin/admin-ajax.php Not caching wp-admin requests.
